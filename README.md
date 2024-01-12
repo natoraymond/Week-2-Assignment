@@ -1,1 +1,3 @@
-# Week-2-Assignment
+### what is version control
+
+Version control, also known as source control or revision control, is a system that manages changes to a project's codebase, documents, and other files over time. The primary goal of version control is to track and coordinate changes made by multiple contributors to a software project. This ensures a collaborative and organized development process while providing the ability to revert to previous states if needed.
