@@ -1,3 +1,40 @@
 ### what is version control
 
 Version control, also known as source control or revision control, is a system that manages changes to a project's codebase, documents, and other files over time. The primary goal of version control is to track and coordinate changes made by multiple contributors to a software project. This ensures a collaborative and organized development process while providing the ability to revert to previous states if needed.
+
+### Explain difference between git and github
+
+What is the difference between Git and GitHub?
+what's the difference? Simply put, Git is a version control system that lets you manage and keep track of your source code history. GitHub is a cloud-based hosting service that lets you manage Git repositories. If you have open-source projects that use Git, then GitHub is designed to help you better manage them.
+
+There are several alternatives to GitHub, each with its own features and advantages. Here are three popular alternatives:
+
+- GitLab:
+
+Website: GitLab
+Key Features:
+Offers both cloud-hosted and self-hosted solutions.
+Provides integrated CI/CD capabilities.
+Includes built-in issue tracking, code review, and project management features.
+Offers a robust free tier and additional features in paid plans.
+Supports groups and subgroups for organizing projects.
+
+- Bitbucket:
+
+ Website: Bitbucket
+Key Features:
+Owned by Atlassian and integrates well with Jira and other Atlassian products.
+Supports both Git and Mercurial repositories.
+Offers free private repositories for small teams.
+Provides built-in CI/CD capabilities.
+Includes features for code collaboration, pull requests, and issue tracking.
+
+- SourceForge:
+
+ Website: SourceForge
+Key Features:
+One of the oldest version control and collaboration platforms.
+Supports Git, Mercurial, Subversion, and others.
+Provides tools for project hosting, bug tracking, and forums.
+Offers features for collaboration on open-source projects.
+Allows both cloud-hosted and self-hosted options.
