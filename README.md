@@ -52,6 +52,8 @@ The key difference between git fetch and pull is that git pull copies changes fr
 
 The git rebase command allows you to easily change a series of commits, modifying the history of your repository. You can reorder, edit, or squash commits together. Typically, you would use git rebase to: Edit previous commit messages.
 
+-Create git rebase command
+
 ## Explain in simple terms git cherry-pick and the command for it 
 
 git cherry-pick in git means choosing a commit from one branch and applying it to another branch. This is in contrast with other ways such as merge and rebases which normally apply many commits into another branch. git cherry-pick is just like rebasing, an advanced concept and also a powerful command.
