@@ -43,3 +43,7 @@ Allows both cloud-hosted and self-hosted options.
 
 
 These alternatives cater to different needs, and the choice between them often depends on factors such as project requirements, team preferences, and specific features offered by each platform. Additionally, some organizations choose to self-host Git repositories using solutions like Gitolite or Gitea for greater control over infrastructure and security.
+
+## Explain the difference between git fetch and git pull
+
+The key difference between git fetch and pull is that git pull copies changes from a remote repository directly into your working directory, while git fetch does not. The git fetch command only copies changes into your local Git repo. The git pull command does both.
